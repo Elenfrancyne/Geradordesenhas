@@ -1,0 +1,13 @@
+F:\Arquitetura da Informação- Senac\SENAC-TÉC.INFORMATICA PARA A INTERNET\geradordesenhas\obj\Debug\netcoreapp3.1\geradordesenhas.csprojAssemblyReference.cache
+F:\Arquitetura da Informação- Senac\SENAC-TÉC.INFORMATICA PARA A INTERNET\geradordesenhas\obj\Debug\netcoreapp3.1\geradordesenhas.AssemblyInfoInputs.cache
+F:\Arquitetura da Informação- Senac\SENAC-TÉC.INFORMATICA PARA A INTERNET\geradordesenhas\obj\Debug\netcoreapp3.1\geradordesenhas.AssemblyInfo.cs
+F:\Arquitetura da Informação- Senac\SENAC-TÉC.INFORMATICA PARA A INTERNET\geradordesenhas\obj\Debug\netcoreapp3.1\geradordesenhas.csproj.CoreCompileInputs.cache
+F:\Arquitetura da Informação- Senac\SENAC-TÉC.INFORMATICA PARA A INTERNET\geradordesenhas\bin\Debug\netcoreapp3.1\geradordesenhas.exe
+F:\Arquitetura da Informação- Senac\SENAC-TÉC.INFORMATICA PARA A INTERNET\geradordesenhas\bin\Debug\netcoreapp3.1\geradordesenhas.deps.json
+F:\Arquitetura da Informação- Senac\SENAC-TÉC.INFORMATICA PARA A INTERNET\geradordesenhas\bin\Debug\netcoreapp3.1\geradordesenhas.runtimeconfig.json
+F:\Arquitetura da Informação- Senac\SENAC-TÉC.INFORMATICA PARA A INTERNET\geradordesenhas\bin\Debug\netcoreapp3.1\geradordesenhas.runtimeconfig.dev.json
+F:\Arquitetura da Informação- Senac\SENAC-TÉC.INFORMATICA PARA A INTERNET\geradordesenhas\bin\Debug\netcoreapp3.1\geradordesenhas.dll
+F:\Arquitetura da Informação- Senac\SENAC-TÉC.INFORMATICA PARA A INTERNET\geradordesenhas\bin\Debug\netcoreapp3.1\geradordesenhas.pdb
+F:\Arquitetura da Informação- Senac\SENAC-TÉC.INFORMATICA PARA A INTERNET\geradordesenhas\obj\Debug\netcoreapp3.1\geradordesenhas.dll
+F:\Arquitetura da Informação- Senac\SENAC-TÉC.INFORMATICA PARA A INTERNET\geradordesenhas\obj\Debug\netcoreapp3.1\geradordesenhas.pdb
+F:\Arquitetura da Informação- Senac\SENAC-TÉC.INFORMATICA PARA A INTERNET\geradordesenhas\obj\Debug\netcoreapp3.1\geradordesenhas.genruntimeconfig.cache
